@@ -1,0 +1,5 @@
+This is the sentence I am Writing to show the example of the seek()     
+The line no. 2 for showing the second method of writing the seek()   
+the line no. 3 for showing the second method   
+the line no. 4 for showing the second method   
+the line no. 5 for showing the second method   
